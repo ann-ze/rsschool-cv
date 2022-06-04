@@ -77,6 +77,8 @@ ___
 - [Linkedin](https://www.linkedin.com/in/anna-zenevich)      
 - [Discord](https://discord.com/channels/@me)    
 
+___
+
 
 ## My repo:
 > Work hard - Dream big. 
