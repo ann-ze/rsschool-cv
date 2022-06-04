@@ -80,6 +80,6 @@ ___
 ___
 
 
-## My repo:
+## My motto:
 > Work hard - Dream big. 
 
