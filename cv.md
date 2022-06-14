@@ -1,0 +1,85 @@
+# Hanna Zianevich
+###  Business Analyst
+
+____
+
+![][logo]
+
+[logo]: data:image/jpeg;base64,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
+Dedicated professional with 5 years of experience in the banking sphere and logistics education. With hands-on experience as analyst in such domains as blockchain, marketing, data management. 
+Hoping to obtain a business analyst position to apply strong experience working and knowledge to the success of the company.   
+
+____
+
+
+## Hard Skills
+- Deep understanding of business processes;                                          
+- Knowledge of notations for modeling business processes (UML, BPMN), the ability to apply them
+- Prototyping with Balsamic, Draw.io;
+- Skills in collecting and documenting requirements;
+- Great understanding of SDLC, methodolohies of modern development;
+- Basic knowledge of client-server architecture;
+- SQL;
+- Markdown.  
+
+___
+
+## Soft Skills
+- Analytical mind and thinking outside the box;
+- Proactivity and hard work;
+- Desire to learn and a business-like approach.      
+
+___
+
+## Languages
+- Russian (native);
+- English (B2).    
+
+___
+
+
+## Education
+- Belarusian State Economic University: Bachelor of Arts in Economics;
+- IT-school MyFreedom : Business Analysis;
+- it-academy.by: Databases Basics;
+- Google Analytics Academy online: Google Analytics;
+- Udemy.com: GDPR - in a nutshell;
+- Udemy.com: System and Organization Control Reports- SOC Reporting;
+- University of Virginia Darden School of Business  (coursera.org): Digital Product Management: Modern Fundamentals;
+- University of Virginia Darden School of Business (coursera.org): Agile Meets Design Thinking;
+- University of Virginia Darden School of Business (coursera.org): Managing an Agile Team.    
+
+___
+
+
+## Experience
+
+2015-2021  
+JSC Technobank   
+Business analyst     
+**Domain**: banking      
+**Customer location**: Belarus, Russia.        
+
+2021 - present      
+LLC Itechart    
+Business analyst    
+**Domain**: fintech, blockchain, marketing, data management, big data analytics     
+**Customer location**: The USA, Canada, Lithuania, France.     
+
+___
+
+
+## Contact information:
+
+- Phone: +375336432285    
+- E-mail: anna-zenevich@mail.ru     
+- Telegram: @ann-zen      
+- [Linkedin](https://www.linkedin.com/in/anna-zenevich)      
+- [Discord](https://discord.com/channels/@me)    
+
+___
+
+
+## My motto:
+> Work hard - Dream big. 
+
